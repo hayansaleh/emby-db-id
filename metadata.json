@@ -1,0 +1,5 @@
+{
+  "name": "IMDb ID Extractor",
+  "description": "An application to extract IMDb movie numbers from a user-uploaded list of movies using the Gemini API.",
+  "requestFramePermissions": []
+}
